@@ -1,0 +1,15 @@
+-write a function that calculates bonus
+-STARTING BONUSES
+    - IF rating is <= 2 , no bonus
+    - IF rating is == 3, bonus = 4 
+    - IF rating is == 4, bonus = 6 
+    - IF rating is == 5, bonus = 10
+
+-OTHER BONUS MODS
+    - IF employee.number.length = 4, bonus +5
+    - IF income > $65,000, bonus -1
+    - IF bonus > 13, bonus = 13
+    - IF bonus < 0, bonus = 0
+
+
+- run function that calculates bonus, on a loop for all employees
